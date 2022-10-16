@@ -1,6 +1,7 @@
 # Table of contents
 
 * [💡写在前面的话（2022.10.8更新）](README.md)
+* [⏯ 个人简介(完善中)](ge-ren-jian-jie-wan-shan-zhong.md)
 * [🌳 种一棵树](zhong-yi-ke-shu/README.md)
   * [🐶 柯基养成指南](zhong-yi-ke-shu/ke-ji-yang-cheng-zhi-nan/README.md)
     * [0.柯基的一些常见解答](zhong-yi-ke-shu/ke-ji-yang-cheng-zhi-nan/0.-ke-ji-de-yi-xie-chang-jian-jie-da/README.md)
@@ -23,7 +24,7 @@
       * [1.我怎么用RSS阅读内容？](yi-xie-hao-wan-yi-er/you-yong-de-ji-shu/rss-yue-du-da-fa-hao/1.-wo-zen-mo-yong-rss-yue-du-nei-rong.md)
       * [2.关于RSS阅读器-Reeder更详细介绍](yi-xie-hao-wan-yi-er/you-yong-de-ji-shu/rss-yue-du-da-fa-hao/2.-guan-yu-rss-yue-du-qi-reeder-geng-xiang-xi-jie-shao.md)
     * [Google Voice（简称GV）](yi-xie-hao-wan-yi-er/you-yong-de-ji-shu/google-voice-jian-cheng-gv/README.md)
-      * [0.是什么](yi-xie-hao-wan-yi-er/you-yong-de-ji-shu/google-voice-jian-cheng-gv/0.-shi-shi-mo.md)
+      * [0.是什么](yi-xie-hao-wan-yi-er/you-yong-de-ji-shu/google-voice-jian-cheng-gv/shi-shi-mo.md)
       * [1.怎么用](yi-xie-hao-wan-yi-er/you-yong-de-ji-shu/google-voice-jian-cheng-gv/1.-zen-mo-yong.md)
   * [🔗 网站收藏夹](yi-xie-hao-wan-yi-er/wang-zhan-shou-cang-jia.md)
   * [⚙ 硬件产品](yi-xie-hao-wan-yi-er/ying-jian-chan-pin/README.md)
