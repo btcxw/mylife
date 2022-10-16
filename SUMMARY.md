@@ -1,7 +1,7 @@
 # Table of contents
 
 * [💡写在前面的话（2022.10.8更新）](README.md)
-* [⏯ 个人简介(完善中)](ge-ren-jian-jie-wan-shan-zhong.md)
+* [⏯ 小吴乐意个人简介(完善中)](xiao-wu-le-yi-ge-ren-jian-jie-wan-shan-zhong.md)
 * [🌳 种一棵树](zhong-yi-ke-shu/README.md)
   * [🐶 柯基养成指南](zhong-yi-ke-shu/ke-ji-yang-cheng-zhi-nan/README.md)
     * [0.柯基的一些常见解答](zhong-yi-ke-shu/ke-ji-yang-cheng-zhi-nan/0.-ke-ji-de-yi-xie-chang-jian-jie-da/README.md)
