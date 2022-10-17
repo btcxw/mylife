@@ -9,6 +9,7 @@
       * [0.2柯基并没有传说中的那么夸张](zhong-yi-ke-shu/ke-ji-yang-cheng-zhi-nan/0.-ke-ji-de-yi-xie-chang-jian-jie-da/0.2-ke-ji-bing-mei-you-chuan-shuo-zhong-de-na-mo-kua-zhang.md)
   * [📝 生活随笔](zhong-yi-ke-shu/sheng-huo-sui-bi/README.md)
     * [2022.10](zhong-yi-ke-shu/sheng-huo-sui-bi/2022.10/README.md)
+      * [新计划](zhong-yi-ke-shu/sheng-huo-sui-bi/2022.10/xin-ji-hua.md)
       * [疫情之下](zhong-yi-ke-shu/sheng-huo-sui-bi/2022.10/yi-qing-zhi-xia.md)
   * [📚 读书思考](zhong-yi-ke-shu/du-shu-si-kao/README.md)
     * [书籍清单](zhong-yi-ke-shu/du-shu-si-kao/shu-ji-qing-dan.md)
